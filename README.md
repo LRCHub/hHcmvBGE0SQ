@@ -1,0 +1,62 @@
+# Woody – ONLY FOR U
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+君が笑って 無邪気になって
+「これ見て」なんて僕も笑って
+何気ない Sunday
+だけど甘くて
+幸せだって２人分かってる
+Wake up and a morning
+Open your eyes 君の寝顔に
+Close my eyes 幸せ香り
+You tooks my heart
+And believe in her love 君がいいんだよ
+辛い時は me so side
+Don't worry どこにも行かない
+繋ぎあった手は hard
+２人 endlessly time
+例えこの目が見えなくなっても
+耳が聞こえなくなってしまっても
+あなたの顔も声もさ I feel all
+だから寂しくても泣かないでよ
+例えこの目が見えなくなっても
+耳が聞こえなくなってしまっても
+あなたの顔も声もさ I feel all
+だから寂しくても泣かないでよ
+I look up at the night sky alone
+And I miss your
+完璧は要らない
+”何気ない”がきっと愛
+今夜 tell me
+What happened today?
+生まれる笑み that's too memory
+続く story 増える pages
+You and I forever
+この広い世界で僕ら
+出会い作り出した new world
+急ぐことはないからさ
+As you are stay
+As you are stay
+例えこの目が見えなくなっても
+耳が聞こえなくなってしまっても
+あなたの顔も声もさ I feel all
+だから寂しくても泣かないでよ
+例えこの目が見えなくなっても
+耳が聞こえなくなってしまっても
+あなたの顔も声もさ I feel all
+だから寂しくても泣かないでよ
+波に揺られて辿り着いた
+安らぎを知った
+See, here, love 離さない
+君といたいだけ yeah
+例えこの目が見えなくなっても
+耳が聞こえなくなってしまっても
+あなたの顔も声もさ I feel all
+だから寂しくても泣かないでよ
+例えこの目が見えなくなっても
+耳が聞こえなくなってしまっても
+あなたの顔も声もさ I feel all
+だから寂しくても泣かないでよ
+```
