@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ONLY FOR U",
+  "base_artist": "Woody",
+  "createdAt": "2025-12-02T07:08:58.177997Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Only For U (feat. Lady \"V\" & Big Pimpin)",
+      "artist": "Daz Dillinger feat. Big Pimpin' & Lady \"V\"",
+      "has_synced": false,
+      "path": "select/01_Only_For_U_(feat._Lady__V__&_Big_Pimpin)_Daz_Dillinger_feat._Big_Pimpin'_&_Lady__V.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Only for U",
+      "artist": "Daz Dillinger feat. Big Pimpin Delemond & Val Young",
+      "has_synced": false,
+      "path": "select/02_Only_for_U_Daz_Dillinger_feat._Big_Pimpin_Delemond_&_Val_Young.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ONLY FOR U",
+      "artist": "Woody",
+      "has_synced": false,
+      "path": "select/03_ONLY_FOR_U_Woody.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ONLY FOR U",
+      "artist": "Woody",
+      "has_synced": false,
+      "path": "select/pl_01_ONLY_FOR_U_Woody.txt"
+    }
+  ]
+}
